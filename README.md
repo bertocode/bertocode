@@ -2,6 +2,6 @@
 
 I'm Berto! or maybe Berto ABC (you can try to guess my real name)
 I'm a telecom engineer that has somehow evolved his career into Software Engineering, more specialized in Frontend Development lately.
-Among software engineering, my interests are functional programming (![Elm](http://elm-lang.org), Haskell soon), Beam languages, accessibility, usability, mental models and probably some other things I'll be adding here if I remember.
+Among software engineering, my interests are functional programming (![Elm](http://elm-lang.org), Haskell soon), ![Beam languages](https://github.com/llaisdy/beam_languages), accessibility, usability, mental models and probably some other things I'll be adding here if I remember.
 
 You can contact me at bertocode@gmail.com
